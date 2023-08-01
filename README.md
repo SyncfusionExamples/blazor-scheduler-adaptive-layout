@@ -1,4 +1,4 @@
-# blazor-scheduler-adaptive-layout
+# Blazor Scheduler Adaptive Layout
 A quick-start project that helps you how to implement an adaptive layout in Blazor Scheduler. 
 
 Documentation: https://blazor.syncfusion.com/documentation/scheduler/resources#adaptive-ui-in-desktop
