@@ -1,6 +1,6 @@
-# Blazor Scheduler Adaptive Layout
+# How to implement adaptive layout in Blazor Scheduler
 
-A quick-start project that helps you implement an adaptive layout in Blazor Scheduler component. This project demonstrates responsive design patterns and layout adjustments for the Syncfusion Scheduler to provide optimal user experience across different screen sizes and device types.
+A quick-start project that helps you implement an adaptive layout in [Blazor Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler) component. This project demonstrates responsive design patterns and layout adjustments for the Syncfusion Scheduler to provide optimal user experience across different screen sizes and device types.
 
 ## Features
 
