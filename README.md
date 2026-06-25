@@ -10,21 +10,17 @@ A quick-start project that helps you implement an adaptive layout in [Blazor Sch
 - **Easy Integration**: Quick-start template for rapid development
 - **Syncfusion Components**: Built with Syncfusion EJ2 Blazor components
 
-## Project Prerequisites
+## Prerequisites
 
-Make sure that you have the latest versions of the following on your machine before starting to work on this project:
+* Visual Studio 2022
+* .NET 7.0 or later
 
-- Visual Studio 2022
-- .NET SDK (latest stable version)
-- Syncfusion Blazor NuGet packages
+## How to run the project
 
-## How to Run This Application
-
-1. Clone the <code>blazor-scheduler-adaptive-layout</code> repository to your local machine and open it in Visual Studio 2022.
-
-2. Register the Syncfusion license key in the `Program.cs` file. For guidance on license key registration, please refer to the [Syncfusion License Key Documentation](https://blazor.syncfusion.com/documentation/getting-started/license-key/how-to-register-in-an-application).
-
-3. Build and run your project to view the adaptive layout in action.
+1. Checkout this project to your local machine
+2. Open the solution file using Visual Studio 2022
+3. Build the solution to restore the required NuGet packages
+4. Press `F5` to start the application
 
 ## Documentation Links
 
