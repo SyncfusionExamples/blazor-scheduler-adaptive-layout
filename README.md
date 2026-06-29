@@ -1,15 +1,37 @@
-# Blazor Scheduler Adaptive Layout
-A quick-start project that helps you how to implement an adaptive layout in Blazor Scheduler. 
+# How to implement Adaptive Layout in Blazor Scheduler
 
-Documentation: https://blazor.syncfusion.com/documentation/scheduler/resources#adaptive-ui-in-desktop
+A quick-start project that helps you implement an adaptive layout in [Blazor Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler) component. This project demonstrates responsive design patterns and layout adjustments for the Syncfusion Scheduler to provide optimal user experience across different screen sizes and device types.
 
-Online examples: https://blazor.syncfusion.com/demos/scheduler/adaptive-grouping?theme=fluent
-                 
-# Project prerequisites
-Make sure that you have the latest versions of 'Visual Studio 2022' on your machine before starting to work on this project.
-# How to run this application?
-• To run this application, you need to first clone the <code>blazor-scheduler-adaptive-layout</code> repository and then open it in Visual Studio 2022.
+## Features
 
-• Register the syncfusion license key in the Program.cs file, if you have any doubts check the documentation link:  https://blazor.syncfusion.com/documentation/getting-started/license-key/how-to-register-in-an-application
+- **Adaptive Layout**: Responsive design that adjusts automatically to different viewport sizes
+- **Desktop Optimization**: Full-featured experience on desktop devices
+- **Mobile Responsive**: Optimized layout for tablets and mobile devices
+- **Easy Integration**: Quick-start template for rapid development
+- **Syncfusion Components**: Built with Syncfusion EJ2 Blazor components
 
-• Now, simply build and run your project to view the output.
+## Prerequisites
+
+* Visual Studio 2022
+* .NET 7.0 or later
+
+## How to run the project
+
+1. Checkout this project to your local machine
+2. Open the solution file using Visual Studio 2022
+3. Build the solution to restore the required NuGet packages
+4. Press `F5` to start the application
+
+## Documentation Links
+
+- **Blazor Introduction**: https://blazor.syncfusion.com/documentation/introduction
+- **Scheduler Component Guide**: https://blazor.syncfusion.com/documentation/schedule/getting-started
+- **Adaptive UI Documentation**: https://blazor.syncfusion.com/documentation/scheduler/resources#adaptive-ui-in-desktop
+
+## Online Examples
+
+View working examples of the adaptive scheduler implementation at: https://blazor.syncfusion.com/demos/scheduler/adaptive-grouping?theme=fluent
+
+## Additional Resources
+
+For more information about implementing adaptive layouts and responsive design patterns in Syncfusion Blazor components, explore the comprehensive documentation and examples in the Syncfusion knowledge base.
