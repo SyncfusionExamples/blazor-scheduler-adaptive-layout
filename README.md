@@ -20,7 +20,7 @@ A quick-start project that helps you implement an adaptive layout in [Blazor Sch
 **Visual Studio 2026**:
 
 * Checkout this project to a location in your disk.
-* Open the project (`Adaptive_Layout_Scheduler.csproj` or `Adaptive_Layout_Scheduler.csproj`) file.
+* Open the project (`Adaptive_Layout_Scheduler.csproj`) file.
 * Restore the NuGet packages.
 * Run the project.
 
