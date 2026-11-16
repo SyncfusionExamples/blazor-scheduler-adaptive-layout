@@ -1,6 +1,6 @@
 # How to implement Adaptive Layout in Blazor Scheduler
 
-A quick-start project that helps you implement an adaptive layout in [Blazor Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler) component. This project demonstrates responsive design patterns and layout adjustments for the Syncfusion Scheduler to provide optimal user experience across different screen sizes and device types.
+A quick-start project that helps you implement an adaptive layout in [Blazor Scheduler](https://www.syncfusion.com/scheduler-sdk/blazor-scheduler) component. This project demonstrates responsive design patterns and layout adjustments for the Syncfusion Scheduler to provide optimal user experience across different screen sizes and device types.
 
 ## Features
 
@@ -12,25 +12,53 @@ A quick-start project that helps you implement an adaptive layout in [Blazor Sch
 
 ## Prerequisites
 
-* Visual Studio 2026 (or Visual Studio 2022 17.14+)
-* .NET 10.0 SDK or later
+- Visual Studio 2026 or Visual Studio Code
+- [.NET 10 SDK](https://dotnet.microsoft.com/download/dotnet/10.0)
 
 ## How to run the project
 
-1. Checkout this project to your local machine
-2. Open the solution file using Visual Studio 2026 (or Visual Studio 2022 17.14+)
-3. Build the solution to restore the required NuGet packages
-4. Press `F5` to start the application
+**Visual Studio 2026**:
+
+* Checkout this project to a location in your disk.
+* Open the project (`Adaptive_Layout_Scheduler.csproj` or `Adaptive_Layout_Scheduler.csproj`) file.
+* Restore the NuGet packages.
+* Run the project.
+
+**Visual Studio Code**:
+
+* Open the repository folder in Visual Studio Code.
+* Open the integrated terminal.
+* Navigate to the repository root.
+
+For server,
+
+```bash
+cd blazor-scheduler-adaptive-layout
+cd Scheduler_Server
+dotnet restore
+dotnet run
+```
+
+For WASM,
+
+```bash
+cd blazor-scheduler-adaptive-layout
+cd Scheduler_Wasm
+dotnet restore
+dotnet run
+```
+
+Open the URL displayed in the terminal after the application starts.
 
 ## Documentation Links
 
 - **Blazor Introduction**: https://blazor.syncfusion.com/documentation/introduction
-- **Scheduler Component Guide**: https://blazor.syncfusion.com/documentation/schedule/getting-started
-- **Adaptive UI Documentation**: https://blazor.syncfusion.com/documentation/scheduler/resources#adaptive-ui-in-desktop
+- **Scheduler Component Guide**: https://help.syncfusion.com/scheduler-sdk/blazor/schedule/getting-started-with-server-app
+- **Adaptive UI Documentation**: https://help.syncfusion.com/scheduler-sdk/blazor/schedule/resources#adaptive-ui-in-desktop
 
 ## Online Examples
 
-View working examples of the adaptive scheduler implementation at: https://blazor.syncfusion.com/demos/scheduler/adaptive-grouping?theme=fluent
+View working examples of the adaptive scheduler implementation at: https://blazor.syncfusion.com/demos/scheduler/adaptive-grouping?theme=fluent2
 
 ## Additional Resources
 
