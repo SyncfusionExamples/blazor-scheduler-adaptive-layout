@@ -12,13 +12,13 @@ A quick-start project that helps you implement an adaptive layout in [Blazor Sch
 
 ## Prerequisites
 
-* Visual Studio 2022
-* .NET 7.0 or later
+* Visual Studio 2026 (or Visual Studio 2022 17.14+)
+* .NET 10.0 SDK or later
 
 ## How to run the project
 
 1. Checkout this project to your local machine
-2. Open the solution file using Visual Studio 2022
+2. Open the solution file using Visual Studio 2026 (or Visual Studio 2022 17.14+)
 3. Build the solution to restore the required NuGet packages
 4. Press `F5` to start the application
 
